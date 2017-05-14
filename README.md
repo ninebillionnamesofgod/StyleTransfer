@@ -1,5 +1,6 @@
 # StyleTransfer
-Takes two images and slaps them together. E.g. 
+Takes two images and slaps them together. 
+The Folder Edit has the images of the Porn Clips at the point where God is mentioned
 
 ## Goal: 
 Render an image where a porn participant is saying God is merged with an image caravaggio
